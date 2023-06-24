@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nimna Kaveesha</h1>
 <h3 align="center">A passionate software engineering student from SriLanka.</h3>
-
+<img src ="https://images.app.goo.gl/b6vZBZ6QSbkaZScu9">
 - 🔭 I’m currently working on [My portfolio](https://github.com/NimnaKs/MyPortfolio.git)
 
 - 🌱 I’m currently learning **Java based frameworks and web development technologies like HTML,CSS and javaScript**
