@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nimna Kaveesha</h1>
 <h3 align="center">A passionate software engineering student from SriLanka.</h3>
-<img src ="[https://images.app.goo.gl/3EepahtseTfTsR9EA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsphero.com%2Fblogs%2Fnews%2Ftypes-of-coding-languages&psig=AOvVaw2fF_ImgZzJP5hf7KPC9wIL&ust=1690083015654000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDgq4iwoYADFQAAAAAdAAAAABAE)">
+<img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsphero.com%2Fblogs%2Fnews%2Ftypes-of-coding-languages&psig=AOvVaw2fF_ImgZzJP5hf7KPC9wIL&ust=1690083015654000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDgq4iwoYADFQAAAAAdAAAAABAE">
 - 🔭 I’m currently working on [My portfolio](https://github.com/NimnaKs/MyPortfolio.git)
 
 - 🌱 I’m currently learning **Java based frameworks and web development technologies like HTML,CSS and javaScript**
